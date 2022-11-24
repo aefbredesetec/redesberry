@@ -1,0 +1,10 @@
+Minimum System Requirements
+
+Linux, Windows 10(WsL atualizado), MacOS
+
+2GB ram
+
+256MB of VRAM
+
+6 GB of disk space for a Minimum instalation
+
