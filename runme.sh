@@ -49,7 +49,7 @@ menu="
 printf "$menu"
 
 aboutme(){
-    printf "I Am Mahmoud Osman, I Made This Software When I Was 16 Years Old Learning Linux Sysadmin And Working On Some Projects Using C++ etc...,\nI Started Out In 2021, Learned C/C++/Assembly With Binary Exploitation, Moved To Network Socket Programming, Then Into Malware And Software Development...etc, All Of Those Stuffs in 2021\nWhatever Year Your Reading This Aboutme, I Will try To keep This Aboutme Out Of My Reach.\nIn Order to Not Edit It. Goodluck\n"
+    printf "We are students from Centro Paula Souza by Etec Cotia, and we made this Software for TCC project.\nIn Order to Not Edit It. Goodluck\n"
 }
 loop(){
 printf "\n${white}(${red}SAS${white})${purple} <-:${white} "
